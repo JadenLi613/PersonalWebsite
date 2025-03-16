@@ -1,10 +1,8 @@
 ## 项目介绍
 
-这是我的**个人主页网站项目**，基于[Codefreyy](https://github.com/Codefreyy/)的[joy-personal-portfolio](https://github.com/Codefreyy/joy-personal-portfolio)项目进行开发。你可以在本项目基础上随意进行修改，将其修改为你的个人主页并发布。
+这是我的**个人主页网站项目**，基于[Codefreyy](https://github.com/Codefreyy/)的[joy-personal-portfolio](https://github.com/Codefreyy/joy-personal-portfolio)项目进行开发。又经[Mystic-Stars](https://github.com/Mystic-Stars)的[HomePage](https://github.com/Mystic-Stars/HomePage)进行二改。在此谢谢二位的分享！
 
-如果喜欢此项目，请给此仓库Star。
-
-## 开发指南
+## 开发指南 来源于[Mystic-Stars](https://github.com/Mystic-Stars)
 
 ### 入门引导
 
