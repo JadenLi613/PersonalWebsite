@@ -26,5 +26,7 @@ pnpm dev
 
 ### 在 AWS 上部署
 
-本人因在海外，所以部署到了AWS的EC2实例上，可以免费使用12个月。具体部署教程：https://www.bilibili.com/video/BV1EP411v7Sw/?spm_id_from=333.337.search-card.all.click&vd_source=10292cec9731a4434dd0169b6b4828ed
+本人因在海外，所以部署到了AWS的EC2实例上，可以免费使用12个月。具体部署教程：
+https://www.bilibili.com/video/BV1EP411v7Sw/?spm_id_from=333.337.search-card.all.click&vd_source=10292cec9731a4434dd0169b6b4828ed
+
 在此谢谢B站up主 **码到成功_凯哥**的教学分享！
