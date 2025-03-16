@@ -24,8 +24,7 @@ pnpm dev
 
 该项目使用 [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) 自动优化并加载 Inter 字体，这是一种自定义的 Google 字体。
 
-### 在 Vercel 上部署
+### 在 AWS 上部署
 
-部署 Next.js 应用最简单的方式是使用 Next.js 创建者提供的 [Vercel 平台](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)。
-
-所以我推荐您在Vercel上部署此项目。
+本人因在海外，所以部署到了AWS的EC2实例上，可以免费使用12个月。具体部署教程：https://www.bilibili.com/video/BV1EP411v7Sw/?spm_id_from=333.337.search-card.all.click&vd_source=10292cec9731a4434dd0169b6b4828ed
+在此谢谢B站up主 **码到成功_凯哥**的教学分享！
