@@ -1,0 +1,31 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "Jaden Li",
+        "short_intro": "",
+        "download_cv": "Visit My Blog"
+    },
+    "SectionName": {
+        "about": "About me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Skills",
+        "subscribe": "Subscribe"
+    },
+    "SkillSection": {
+        "Python": "Python Programming",
+        "Web": "Web Development",
+        "Git": "Version Control",
+        "Github": "Code Hosting",
+        "C#": "C# Programming",
+        "AWS": "AWS Cloud Services",
+        "Java": "Java Programming",
+        "Photography": "Record life",
+        "Football": "Dalian Yingbo, Coventry City and Auckland FC"
+    },
+    "ProjectSection": {
+        "view_all": "View All Projects",
+        "code": "View Code",
+        "visit": "Live Demo"
+    }
+}
